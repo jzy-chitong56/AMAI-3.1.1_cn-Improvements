@@ -7,15 +7,25 @@ Official Release Links available from: https://www.hiveworkshop.com/threads/adva
 
 As was originally hosted on http://www.wc3campaigns.net/forumdisplay.php?f=601
 
-# Warcraft Requirements
-| AMAI Version    | War3 Support                   | Comments |
-| -----------|--------------------------------|---------------|
-| 2.5.4      | Min 1.24+ | Classic edition from 2008 |
-| 2.6.1      | Min 1.24+ | Better Support for 1.30+ |
-| 3.0        | Min 1.32+ | Full Support for the 1.30+ era |
-| 3.1        | Min 1.32.10+ |  |
+# Requirements
+You must install perl (via `strawberry` or `activestate`).
+Additionally you need to install the *Tk* module if you want to run the Strategy Manager UI Client.
+`Activestate` uses the package manager, while `strawberry` you need to use the CPAN client to install a module.
 
-* There are reports that v1.29 of Warcraft 3 prevents AMAI from chatting. This is just an issue with this version and you can downgrade or upgrade.
+Tested with strawbery perl 5.30 and Tk 804.034
+
+该版本AMAI仅支持1.32+
+【这部分是 perl 的安装说明（可以安装`strawberry` ，也可以装`activestate`，建议装前者，百度就有），如果需要简化修改程序的难度，请额外安装图形化界面 Tk 】
+
+# Quick Build And Install
+- Use *makeTFT.bat* to create the scripts for the AI. 
+- Run *InstallTFTToMap.bat "C:\mymap.w3m"* to install the AI scripts to Warcraft 3 maps. 
+- Run up a custom game and select the map to play.
+
+【安装 perl 后，下载并解压程序（下载教程：https://blog.csdn.net/qq_53028759/article/details/123591435），运行*makeTFT.bat*，再按 https://www.bilibili.com/video/BV1nZ4y127XV/ 教程安装（在程序文件夹根目录右键>打开POWERSHELL窗口-WIN10以上系统，输入： perl InstallTFTtoDir.pl "地图文件夹路径，如：C:\Users\Administrator\Documents\Warcraft III\Maps\AMAI"）】
+
+【如果运行 *makeTFT.bat* 报错，请确认未修改过程序任意文件，新手请勿随意修改】
+
 
 # How to Play
 AMAI release comes with the standard AI scripts pre-built for you.
