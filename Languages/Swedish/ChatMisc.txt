@@ -1,0 +1,7 @@
+chat_no_unit_selected	Ingen enhet vald.
+chat_confirm_attack_unit	Jag kommer anfalla/vakta den valda enheten.
+chat_towerrush	Jag kommer att forsoka att towerrush nagon
+chat_no_orc	Jag vill inte towerrush nagon
+militia_expansion_chat	Jag gar for milisexpansion har
+chat_dynamic_counter	och motverka fienderna 
+invalid_strategy_number	Ogiltigt strateginummer
