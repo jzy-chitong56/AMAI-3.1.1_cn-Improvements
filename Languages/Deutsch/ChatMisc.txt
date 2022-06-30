@@ -1,0 +1,7 @@
+chat_no_unit_selected	Keine Einheit ausgewahlt
+chat_confirm_attack_unit	Ich werde die gewahlte Einheit angreifen/verteidigen
+chat_towerrush	Ich werde versuchen Towerrush jemand
+chat_no_orc	Ich bin kein Ork
+militia_expansion_chat	Ich mache hier jetzt eine Milizenexpansion
+chat_dynamic_counter	und den Feinden entgegenwirken 
+invalid_strategy_number	Ungultige Strategienummer
