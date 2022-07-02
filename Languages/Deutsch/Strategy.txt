@@ -1,16 +1,16 @@
 Strategy Name in AI	Translated Strategy Name	Translated Strategy Report
 ROCNormalElf	Normal	Ich spiele normal und baue von Allem etwas
-ROCMassHD	Jägerinnen und Dryaden	Ich baue massiv Jägerinnen mit ein paar Dryaden
+ROCMassHD	Jaerinnen und Dryaden	Ich baue massiv Jaerinnen mit ein paar Dryaden
 ROCDruids	Dryaden und Bärchen	Ich baue Dryaden and Bärchen
 ROCHippo	Hipporeiterinnen	Ich baue Hipporeiterinnen
 ROCBallista	Ballistas	Ich baue Ballistas and Dryaden
 ROCTalon	Klauendruiden	Ich baue massiv Klauendruiden
 ROCHippoChim	HippoChi	Ich baue Hippos and Schimären
 ROCDryadChim	DryadChim	Ich baue Dryaden and Schimären
-ROCArcher	Bogenschützen	Ich baue massiv Bogenschützen
+ROCArcher	Bogenschuze	Ich baue massiv Bogenschuze
 ROCDotC	Bären	Ich baue massiv Bären
 NormalElf	Normal	Ich spiele normal und baue von Allem etwas
-MassHD	Jägerinnen und Dryaden	Ich baue massiv Jägerinnen mit ein paar Dryaden
+MassHD	Jaerinnen und Dryaden	Ich baue massiv Jaerinnen mit ein paar Dryaden
 Druids	Dryaden und Bären	Ich baue Dryaden and Bären
 Hippo	Hipporeiterinnen	Ich baue Hipporeiterinnen
 Ballista	Ballistas	Ich baue Ballistas and Dryaden
@@ -18,9 +18,9 @@ Talon	Klauendruiden	Ich baue massiv Klauendruiden
 HippoChim	HippoChi	Ich baue Hippos and Schimären
 DryadChim	DryadChim	Ich baue Dryaden and Schimären
 NEAntiTower	Anti Tower	I'm massing seige equipment
-Archer	Bogenschützen	Ich baue massiv Bogenschützen
+Archer	Bogenschuze	Ich baue massiv Bogenschuze
 DotC	Bärchen	Ich baue massiv Bärchen
-MassHuntress	Jägerinnen	Ich baue massiv Jägerinnen
+MassHuntress	Jaerinnen	Ich baue massiv Jaerinnen
 MGDryads	Dryaden und Bergriesen	Ich baue Dryaden und Bergriesen
 AoWMix	Einheitenmix aus AoW	Ich mixe Einheiten aus dem AoW
 AoLMix	Einheitenmix aus AoL	Ich mixe Einheiten aus dem AoL
@@ -28,14 +28,14 @@ ROCNormalHuman	Normal	Ich spiele normal und baue von Allem etwas
 ROCMassSp	Zauberer	Ich baue massiv Zauberer
 ROCGryph	Greifen	Ich baue Greifenreiter
 ROCKnight	Ritter	Ich baue massiv Soldaten und Ritter
-ROCRifle	Schützen	Ich baue massiv Schützen
+ROCRifle	Schuzen	Ich baue massiv Schuzen
 ROCMortars	Mörser-Truppen	Ich baue Mörser-Truppen
 ROCCopters	Gyrokopter	Ich baue Gyrokopter
 NormalHuman	Normal	Ich spiele normal und baue von Allem etwas
 MassSp	Zauberer	Ich baue massiv Zauberer
 Gryph	Greifen	Ich baue Greifenreiter
 Knight	Ritter	Ich baue massiv Soldaten und Ritter
-Rifle	Schützen	Ich baue massiv Schützen
+Rifle	Schuzen	Ich baue massiv Schuzen
 Mortars	Mörser-Truppen	Ich baue Mörser-Truppen
 Copters	Gyrokopter	Ich baue Gyrokopter
 MassSB	Zauberbrecher	Ich baue massiv Zauberbrecher
@@ -48,17 +48,17 @@ ROCNormalOrc	Normal	Ich baue Grunzer und Zauberer
 ROCFastSh	Schamanen und Tauren	Ich baue Schamanen und Tauren
 ROCKodo	Kodo	Ich baue massiv Kodo-Bestien
 ROCWyvSh	Schamanen und Wyverns	Ich baue Schamanen und Wyverns
-ROCHHunters	Kopfjäger	Ich baue massiv Kopfjäger
+ROCHHunters	Kopfjaer	Ich baue massiv Kopfjaer
 ROCRaiders	Räuber	Ich baue massiv Räuber
 ROCCatapults	Katapulte	Ich baue Grunzer und Katapulte
-ROCHeadCatapults	Kopfjäger und Katapulte	Ich baue Kopfjäger und Katapulte
+ROCHeadCatapults	Kopfjaer und Katapulte	Ich baue Kopfjaer und Katapulte
 NormalOrc	Normal	Ich baue Grunzer und Zauberer
 FastSh	Schamanen und Tauren	Ich baue Schamanen und Tauren
 WyvSh	Schamanen und Wyverns	Ich baue Schamanen und Wyverns
-HHunters	Kopfjäger	Ich baue massiv Kopfjäger
+HHunters	Kopfjaer	Ich baue massiv Kopfjaer
 Raiders	Räuber	Ich baue massiv Räuber
 GruntCatapults	Grunzer und Katapulte	Ich baue Grunzer und Katapulte
-HeadCatapults	Kopfjäger und Katapulte	Ich baue Kopfjäger und Katapulte
+HeadCatapults	Kopfjaer und Katapulte	Ich baue Kopfjaer und Katapulte
 Wyvern	Windreiter	Ich baue massiv Windreiter
 BarrackMix	Einheitenmix aus Kaserne	Ich mixe Einheiten aus der Kaserne
 BestiaryMix	Einheitenmix aus Bestiarium	Ich mixe Einheiten aus dem Bestiarium
@@ -83,6 +83,7 @@ Wyrms	Wyrms	Ich versuche einen Wyrmrush mit ein paar Gruftbestien
 Banshee	Banshees	Ich baue hauptsächlich Banshees
 Necro	Totenbeschwörer	Ich baue Totenbeschwörer
 Ghouls	Ghoule	Ich baue massiv Ghoule
+GargGhouls	Gargoyles and Ghoule	Ich baue Gargoyles and Ghoule
 Fiends	Gruftbestien	Ich baue massiv Gruftbestien
 GargWyrm	Gargoyles and Wyrms	Ich baue Gargoyles and Wyrms
 Aboms	Monstrositäten	Ich baue massiv Monstrositäten
