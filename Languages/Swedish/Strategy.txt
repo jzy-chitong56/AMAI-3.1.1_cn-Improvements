@@ -21,8 +21,8 @@ Archer	Archers	Jag bygger mass archers
 DotC	DotC	Jag bygger mass DotC
 MassHuntress	MassHunts	Jag bygger massvis med huntress
 MGDryads	MGDryads	Jag bygger mountain giants och dryader
-AoWMix	AoWMix	Jag mixar enheter från ancient of war
-AoLMix	AoLMix	Jag mixar enheter från ancient of lore och ancient of wind
+AoWMix	AoWMix	Jag mixar enheter fran ancient of war
+AoLMix	AoLMix	Jag mixar enheter fran ancient of lore och ancient of wind
 NEAntiTower	Anti Torn	Jag massar siege
 ROCNormalHuman	Normal	Jag spelar vanligt och bygger lite av varje
 ROCMassSp	Casters	Jag massar casters
@@ -40,8 +40,8 @@ Mortars	Mortars	Jag skaffar mortars och riflemen
 Copters	Copters	Jag massar flygmaskiner
 MassSB	MassSpellBreakers	Jag bygger massvis med spell breakers
 Dragonhawks	Dragonhawks	Jag bygger massa dragonhawks
-BarrackMix	BarrackMix	Jag mixar enheter från barrack och workshop
-SanctumMix	SanctumMix	Jag mizar enheter från sanctum och aviary
+BarrackMix	BarrackMix	Jag mixar enheter fran barrack och workshop
+SanctumMix	SanctumMix	Jag mizar enheter fran sanctum och aviary
 HAntiTower	Anti Torn	Jag massar siege
 VersusOrc	Mass Sorceress	Jag bygger massa sorceress
 ROCNormalOrc	Normal	Jag skaffar grunts och casters
@@ -60,13 +60,13 @@ Raiders	Raiders	Jag bygger massa raiders
 GruntCatapults	Grunts och Katapulter	Jag bygger grunts och katapulter
 HeadCatapults	Head hunters och Katapulter	Jag skaffar head hunters och katapulter
 Wyverns	Wyverns	Jag bygger massa wyverns
-BarrackMix	BarrackMix	Jag mixar enheter från barrack
-BestiaryMix	BestiaryMix	Jag mixar enheter från bestiary
+BarrackMix	BarrackMix	Jag mixar enheter fran barrack
+BestiaryMix	BestiaryMix	Jag mixar enheter fran bestiary
 AntiPierce	Anti Pierce	Jag skaffar melee och raiders
 AntiAir	Batriders	Jag massar bats
 OAntiTower	Anti Torn	Jag massar siege
 VersusHuman	Raiders and Spirtwalkers	Jag bygger på raiders och spirit walkers
-VersusUndead	Grunts and Beastiary	Jag bygger grunts och lite blandat från beastiary
+VersusUndead	Grunts and Beastiary	Jag bygger grunts och lite blandat fran beastiary
 VersusElf	Raiders and Demolishers	Jag bygger raiders och demolishers
 ROCNormalUndead	Normal	Jag spelar som vanligt och bygger lite av varje
 ROCWyrms	Wyrms	Jag bygger wyrms och crypt fiends
@@ -88,8 +88,8 @@ GargWyrm	Gargoyles och Wyrms	Jag bygger gargs och wyrms
 Aboms	Aboms	Jag skaffar massa abominations
 MeatFiends	Meat wagons och Fiends	Jag bygger fiends och meat wagons
 MassDestroyer	MassDestroyers	Jag bygger massa destroyers
-CryptMix	CryptMix	Jag mixar enheter fråb crypt
-TempleMix	TempleMix	Jag mixar enheter från temple och slaughter house
+CryptMix	CryptMix	Jag mixar enheter fran crypt
+TempleMix	TempleMix	Jag mixar enheter fran temple och slaughter house
 UAntiTower	Anti Torn	Jag massar siege
 airair	Luft-Luft	Jag bygger luft- mot luftenheter
 airground	Luft-Mark	Jag bygger luft- mot markenheter
