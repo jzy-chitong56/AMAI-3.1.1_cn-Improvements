@@ -656,13 +656,15 @@ if tier == 3 then
       call BuildUnit(1, hero[2], 130)
       call BuildUnit(1, hero[3], 120)
       call BuildUnit(12, KNIGHT, 90)
-      call BuildUnit(6, GRYPHON, 100)
-      call BuildUnit(3, HUMAN_DRAGON_HAWK, 100)
+      call BuildUnit(14, COPTER, 100)
+      call BuildUnit(6, GRYPHON, 40)
       call BuildUnit(6, PRIEST, 69)
       call BuildUnit(1, ARCANE_VAULT, 50)
       call BuildUnit(1, ZEPPELIN, 50)
-      call BuildUpgr(1, UPG_TANK, 115)
-      call BuildUpgr(1, UPG_BREEDING, 70)
+      call BuildUpgr(1, UPG_FLAK, 115)
+      call BuildUpgr(1, UPG_BOMBS, 105)
+      call BuildUpgr(1, UPG_BREEDING, 80)      
+      call BuildUpgr(1, UPG_HAMMERS, 55)
       call BuildUpgr(2, UPG_PRAYING, 58)
 
 
@@ -688,12 +690,14 @@ elseif tier == 2 then
       call BuildUnit(1, hero[2], 130)
       call BuildUnit(8, FOOTMAN, 65)
       call BuildUnit(6, RIFLEMAN, 55)
+      call BuildUnit(8, COPTER, 100)
       call BuildUnit(4, PRIEST, 40)
       call BuildFront(2, GUARD_TOWER, 55)
       call BuildUnit(1, CASTLE,70)
       call BuildUnit(1, ARCANE_VAULT, 60)
       call BuildUnit(1, ZEPPELIN, 50)
       call BuildUpgr(1, UPG_PRAYING, 58)
+      call BuildUpgr(1, UPG_FLAK, 115)
 
 
 
