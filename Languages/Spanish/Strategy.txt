@@ -90,7 +90,7 @@ MeatFiends	Carros y Demonios Cripta	Trataré Demonios de la cripta y carros de de
 MassDestroyer	Destructores en masa	Haciendo Destructores en masa
 CryptMix	Mezcla de la Cripta	Intentando con unidades de la Cripta y la Casa de la Tortura
 TempleMix	Mezcla Templo	Mezclando unidades del templo de los malditos y la Casa de la Tortura
-AntiTower	Anti Torre	Estoy reuniendo equipo de demolición
+UAntiTower	Anti Torre	Estoy reuniendo equipo de demolición
 airair	Aire-aire	Voy a construir Unidades aire-aire
 airground	Aire-tierra	Voy a construir unidades Aire-tierra
 groundair	Tierra-Aire	Voy a construir unidades Tierra-aire
