@@ -801,6 +801,67 @@ endfunction
 //============================================================================
 //  build_sequence
 //============================================================================
+function init_strategy_GargGhouls takes nothing returns nothing
+    call AddHarass(4, 2, GHOUL)
+    set distraction_group = 4
+
+
+
+
+
+endfunction
+function build_sequence_GargGhouls takes nothing returns nothing
+if tier == 3 then
+
+      call BuildUnit(22, GHOUL, 35)
+      call BuildUnit(24, GARGOYLE, 40)
+      call BuildUnit(2, OBSIDIAN_STATUE, 65)
+      call BuildUnit(1, hero[1], 140)
+      call BuildUnit(1, hero[2], 130)
+      call BuildUnit(1, hero[3], 120)
+      call BuildUnit(1, NECROPOLIS_3, 55)
+      call BuildUnit(1, TOMB_OF_RELICS, 45)
+      call BuildUpgr(1, UPG_GHOUL_FRENZY, 115)
+      call BuildUpgr(1, UPG_STONE_FORM, 43)
+      call BuildUpgr(1, UPG_CANNIBALIZE, 83)
+
+
+
+
+elseif tier == 2 then
+
+      call BuildUnit(15, GHOUL, 35)
+      call BuildUnit(12, GARGOYLE, 40)
+      call BuildUnit(2, OBSIDIAN_STATUE, 65)
+      call BuildUnit(1, hero[1], 140)
+      call BuildUnit(1, hero[2], 130)
+      call BuildUnit(1, NECROPOLIS_3, 60)
+      call BuildUnit(1, TOMB_OF_RELICS, 45)
+      call BuildUpgr(1, UPG_CANNIBALIZE, 83)
+
+
+
+
+else
+
+      call BuildUnit(16, GHOUL, 35)
+      call BuildUnit(1, hero[1], 150)
+      call BuildUnit(1, NECROPOLIS_2, 50)
+      call BuildUpgr(1, UPG_CANNIBALIZE, 83)
+
+
+
+
+
+
+
+
+endif
+endfunction
+
+//============================================================================
+//  build_sequence
+//============================================================================
 function init_strategy_Fiends takes nothing returns nothing
 
     call AddHarass(4, 2, CRYPT_FIEND)
