@@ -3,19 +3,24 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
-## [3.3.1-cn] - 2022-06-23
+## [3.3.1-cn] - 2022-07-2
 ### Added
 - New chinese language translation, include Blizzard.eai [function Tribute]
 - Console add Page turning，adapted more than 12  AIPlayer and give more Strategy choose [Blizzard.eai]
-- if no HumanPlayer in game play, the first Observer must choose language 
+- if no HumanPlayer on game, the first Observer must choose language 
 - translation add more sentence for all language(translate by google)
 - Add Undead UPGRADE UPG_SKEL_MASTERY
 - Reduction Profiles can now be reused by AI players，now Profiles can't reused (if the Profiles Race same as AI Race)
    - New Profiles RandomInt, some values are random
-   - AI can chance that the incarnation to Legendary players
+- Undead strategy add GargGhouls.
 
 ### Changed
-- Strategy Adjustment
+- Strategy additional Improvements
+   - Main city upgrade priorities for all tactics have been rebalanced around 50
+   - Increased the number of training units for Tier1 of all races
+   - Adjusted the night elf training Hippo eagle command to reduce the occupied population of the Hippo eagle that can only be brought to the air
+   - Night elf Talon now use FAERIE_DRAGON against the air , because AI won't become a bird , match the MOUNTAIN_GIANT at the same time
+   - Human Knight strategy now use COPTER , no STEAM_TANK , and Reduced GRYPHON quantity and priority
 - HUMAN UPGRADE UPG_SUN_BLADE UPGRADE need LUMBER_MILL,CASTLE,BLACKSMITH(on 1.32,UPG_SUN_BLADE no need UPGRADE)
 
 ### Fixed
@@ -28,11 +33,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Fixed some not chinese language translation
 - Fixed the Dialog only show title at first
 - Fixed the Dialog cannot change language
-- Calibration the Player color 
+- Calibration the Player name color 
 - Add welcome message and opening tactical report Time of report (try to fix the problem of using default language for the first two reports)
+- Fixed some strategy no hero3 or misspelled two hero2
 
 ### Easter Egg
 - AI now can use power fountain (if map have power fountain)
+- AI Profiles can chance that the incarnation to Legendary real person players
 
 ## [3.1.1] - 2022-01-10
 
