@@ -995,7 +995,8 @@ endfunction
 function build_sequence_GargWyrm takes nothing returns nothing
 if tier == 3 then
 
-      call BuildUnit(6, GHOUL, 45)
+      call BuildUnit(5, ABOMINATION, 55)
+      call BuildUnit(3, GHOUL, 45)
       call BuildUnit(10, GARGOYLE, 45)
       call BuildUnit(2, OBSIDIAN_STATUE, 65)
       call BuildUnit(6, FROST_WYRM, 60)
@@ -1004,10 +1005,9 @@ if tier == 3 then
       call BuildUnit(1, hero[3], 120)
       call BuildUnit(1, TOMB_OF_RELICS, 45)
       call BuildUnit(1, ZEPPELIN, 50)
-
+      call BuildUpgr(1, UPG_PLAGUE, 71)
       call BuildUpgr(1, UPG_STONE_FORM, 72)
       call BuildUpgr(1, UPG_WYRM_BREATH, 55)
-      call BuildUpgr(1, UPG_GHOUL_FRENZY, 70)
       call BuildUpgr(1, UPG_CANNIBALIZE, 70)
 
 
