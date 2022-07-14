@@ -359,5 +359,4 @@ function InitBlizzard takes nothing returns nothing
     call InitMapRects()
     call InitSummonableCaps()
     call InitNeutralBuildings()
-    call InitZoom()
 

@@ -1751,4 +1751,5 @@ endfunction
 
 #INCLUDE <Blizzard3.j>
     call InitCommander()
+    call InitZoom()
 #INCLUDE <Blizzard4.j>
