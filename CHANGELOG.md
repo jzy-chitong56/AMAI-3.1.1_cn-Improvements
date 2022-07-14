@@ -12,7 +12,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Add Undead UPGRADE UPG_SKEL_MASTERY
 - Reduction Profiles can now be reused by AI players，now Profiles can't reused (if the Profiles Race same as AI Race)
    - New Profiles RandomInt, some values are random
-- Undead strategy add GargGhouls.
+- Undead strategy add GargGhouls
+- Input "-zoomxxxx" to adjust the sight distance, and XXXX is a number, such as "-zoom1000" (learn w3chambers)
 
 ### Changed
 - Strategy additional Improvements
