@@ -1,8 +1,9 @@
-Dette brettet utnytter AMAI.
-Skriv 'Cmd: Help' for � f� hjelp.
-Skriv inn '-zoomxxxx' for a justere visningsavstanden, for eksempel '-zoom1000'
-Trykk ESC for meny.
-Logg Inn www.wc3campaigns.net forum for oppdateringer
-Stott Warcraft 1.32.10+
-AMAI hjemmeside http://www.wc3campaigns.net/amai
-AIAndy, Zalamander og DKSlayer
+﻿本图包含AMAI和智能指挥模块（AMAI_3.1.1_cn）
+输入'CMD:Help'查看帮助信息，有AI盟友时按 ESC 可打开控制台
+输入'-zoomxxxx'调整视距，如'-zoom1000'
+登陆 https://github.com/SMUnlimited/AMAI 查询更新和其他信息（B站搜 AMAI 2022）
+AMAI作者：AIAndy, Zalamander, DKSlayer, Strategy Master, Pixyy
+汉化：Dr.Fan、Sheeryiro（武汉大学）-完善：KeamSpring、JZY
+为重置版玩家定制，支持魔兽1.32.10及以上，重置汉化及修复部分BUG
+建议搭配淬火食用
+已知问题：帮助信息未汉化；AI不会转换风德和乌鸦
