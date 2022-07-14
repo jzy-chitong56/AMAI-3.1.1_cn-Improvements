@@ -360,4 +360,4 @@ function InitBlizzard takes nothing returns nothing
     call InitSummonableCaps()
     call InitNeutralBuildings()
     call InitZoom()
-    
+
