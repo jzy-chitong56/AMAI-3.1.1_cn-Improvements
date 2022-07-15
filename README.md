@@ -32,6 +32,10 @@ Tested with strawbery perl 5.30 and Tk 804.034
 
 *You may need to run as an administrator if you have issues with maps not displaying any teams.
 
+地图包下载（仅支持1.32+）-占用空间 25.9 M，迅雷网盘：
+链接：https://pan.xunlei.com/s/VN70v-vAg-dTcRaXgY5AxLdbA1?pwd=838p#
+提取码：838p
+
 
 该版本AMAI仅支持1.32+
 【这部分是 perl 的安装说明（可以安装`strawberry` ，也可以装`activestate`，建议装前者，百度就有），如果需要简化修改程序的难度，请额外安装图形化界面 Tk 】
