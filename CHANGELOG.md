@@ -3,12 +3,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
-## [3.3.1-cn] - 2022-07-2
+## [3.3.1-cn] - 2022-07-15
 ### Added
 - New chinese language translation, include Blizzard.eai [function Tribute]
+   - translation add more sentence for all language(translate by google)
 - Console add Page turning，adapted more than 12  AIPlayer and give more Strategy choose [Blizzard.eai]
 - if no HumanPlayer on game, the first Observer must choose language 
-- translation add more sentence for all language(translate by google)
 - Add Undead UPGRADE UPG_SKEL_MASTERY
 - Reduction Profiles can now be reused by AI players，now Profiles can't reused (if the Profiles Race same as AI Race)
    - New Profiles RandomInt, some values are random
